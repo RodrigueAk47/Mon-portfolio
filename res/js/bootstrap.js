@@ -46,7 +46,16 @@
     if (staticProps) _defineProperties(Constructor, staticProps);
     return Constructor;
   }
-
+  function preloaderFadeOutInit(){
+    $('.preloader').fadeOut('slow');
+    $('body').attr('id','');
+    }
+    // Window load function
+    jQuery(window).on('load', function () {
+    (function ($) {
+    preloaderFadeOutInit();
+    })(jQuery);
+    });
   function _extends() {
     _extends = Object.assign || function (target) {
       for (var i = 1; i < arguments.length; i++) {
