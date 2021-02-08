@@ -40,12 +40,12 @@ Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example
 
 ## Versions
 
-**Dernière version stable :** 1.2
+**Dernière version stable :** 1.2 <br>
 **Dernière version :** 1.2
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* ** Rodrigue Assohou ** _alias_ [@ Rodrigue Ak47] (https://github.com/RodrigueAk47)
+Rodrigue Assohou (https://github.com/RodrigueAk47)
 
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
