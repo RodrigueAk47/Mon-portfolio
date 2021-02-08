@@ -1,60 +1,52 @@
 # Mon portfolio
-_(juste en dessous des badges sympatiques à placer)_
 
-[! [forthebadge] (http://forthebadge.com/images/badges/built-with-love.svg)] (http://forthebadge.com) [! [forthebadge] (http://forthebadge.com/ images / badges / powered-by-electric.svg)] (http://forthebadge.com)
+[![Generic badge](https://img.shields.io/badge/build-maintained-<COLOR>.svg)](https://shields.io/)
 
-Une petite description du projet
+
+
+Mon portfolio est un site de portfolio pour présenter les projets réalisés
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Cloner ce dépôt GitHub
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
 
-- Programme 1
-- Programme 2
-- etc...
+- Éditeur de code (vs code)
+- Documentation de bootstrap
 
 ### Installation
 
-Les étapes pour installer votre programme....
+Pour installer c'est simple ...
 
-Dites ce qu'il faut faire...
+D'abord ouvré un terminal ``cmd`` ensuite
+Executez la commande ``git clone https://github.com/RodrigueAk47/Mon-portfolio.git`` et c'est fini
 
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 ## Démarrage
 
-Dites comment faire pour lancer votre projet
+Ouvrer le dossier de l'installation et executez le dans un navigateur (chrome)
 
 ## Fabriqué avec
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
 _exemples :_
-* [Materialize.css] (http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+* [bootstrap](https://getboostrap.com) - Framework CSS (front-end)
+* [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
 
 ## Contribuant
 
 Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
 
 ## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 5.0
-**Dernière version :** 5.1
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
+
+**Dernière version stable :** 1.2
+**Dernière version :** 1.2
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* ** Jhon biche ** _alias_ [@ outout14] (https://github.com/outout14)
+* ** Rodrigue Assohou ** _alias_ [@ Rodrigue Ak47] (https://github.com/RodrigueAk47)
 
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
@@ -62,5 +54,5 @@ _(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``
 
 ## Licence
 
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``MIT`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
