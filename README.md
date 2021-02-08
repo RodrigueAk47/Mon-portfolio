@@ -31,7 +31,6 @@ Ouvrer le dossier de l'installation et executez le dans un navigateur (chrome)
 ## Fabriqué avec
 
 
-_exemples :_
 * [bootstrap](https://getboostrap.com) - Framework CSS (front-end)
 * [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
 
