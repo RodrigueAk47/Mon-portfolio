@@ -44,12 +44,9 @@ Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example
 **Dernière version :** 1.2
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
+
 Rodrigue Assohou (https://github.com/RodrigueAk47)
 
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
-
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
 
 ## Licence
 
